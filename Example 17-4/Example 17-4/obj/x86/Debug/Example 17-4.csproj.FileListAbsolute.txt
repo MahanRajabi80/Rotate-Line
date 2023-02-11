@@ -1,0 +1,18 @@
+C:\Users\M-H Computer\Desktop\Example 17-4\Example 17-4\bin\Debug\Example 17-4.exe
+C:\Users\M-H Computer\Desktop\Example 17-4\Example 17-4\bin\Debug\Example 17-4.pdb
+C:\Users\M-H Computer\Desktop\Example 17-4\Example 17-4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 17-4\Example 17-4\obj\x86\Debug\Example_17_4.Form1.resources
+C:\Users\M-H Computer\Desktop\Example 17-4\Example 17-4\obj\x86\Debug\Example_17_4.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\Example 17-4\Example 17-4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\Example 17-4\Example 17-4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\Example 17-4\Example 17-4\obj\x86\Debug\Example 17-4.exe
+C:\Users\M-H Computer\Desktop\Example 17-4\Example 17-4\obj\x86\Debug\Example 17-4.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-4\Example 17-4\bin\Debug\Example 17-4.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-4\Example 17-4\bin\Debug\Example 17-4.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-4\Example 17-4\obj\x86\Debug\Example 17-4.csprojAssemblyReference.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-4\Example 17-4\obj\x86\Debug\Example_17_4.Form1.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-4\Example 17-4\obj\x86\Debug\Example_17_4.Properties.Resources.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-4\Example 17-4\obj\x86\Debug\Example 17-4.csproj.GenerateResource.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-4\Example 17-4\obj\x86\Debug\Example 17-4.csproj.CoreCompileInputs.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-4\Example 17-4\obj\x86\Debug\Example 17-4.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part17\Example 17-4\Example 17-4\obj\x86\Debug\Example 17-4.pdb
